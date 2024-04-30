@@ -12,7 +12,7 @@
  <h3>1. I'm currently learning web</h3>
  <h3>2. I be able to speak in english :speech_balloon:</h3>
  <h3>I regularly trying coding for reach something new :thought_balloon:</h3>
- <h3>4. I have a big desire to improve myself : cowboy_hat_face:</h3>
+ <h3>4. I have a big desire to improve myself :cowboy_hat_face:</h3>
  <h3>5. Reach me, by <a href="https://t.me/moon_sev">https://t.me/moon_sev</a></h3>
 </div>
  
