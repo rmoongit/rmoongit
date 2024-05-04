@@ -35,5 +35,8 @@
 
 <div align="center">
   <h1>My stats:</h1>
+ <div>
+  <img src="https://www.codewars.com/users/MoonSev/badges/small"/>
+ </div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rmoongit&theme=vue"/>
 </div>
